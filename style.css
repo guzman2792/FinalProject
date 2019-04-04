@@ -1,0 +1,33 @@
+html {
+    background-color:azure;
+}
+body {
+    background-color: azure
+    margin: 0 auto;
+    }
+h1 {
+    margin: 0 auto;
+    padding: 1em 1em 2em;
+    max-width: 800px;
+    max-height: 0px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 100;
+    color: orangered;
+    text-align: center
+}
+p {
+    margin: 0 auto;
+    text-align: center;
+    padding: 1em 1em em;
+    font-size: 65;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: rebeccapurple
+}
+img {
+    display: block;
+    border-color: rebeccapurple;
+    border: 3px solid rebeccapurple;
+    padding: 10px;
+margin:0 auto
+    
+}
